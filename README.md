@@ -22,10 +22,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40 /> 
 </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://nodejs.org/static/images/logo.svg" alt="php" width="50" height="50"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" alt="nodejs" width="60" height="30"/> 
 </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="mysql" width="40" height="40"/> 
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="40" height="40"/> 
 </a>  
 </p>
   
