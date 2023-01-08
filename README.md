@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Merve Batman.</h1>
 
 <p align="center">I am a self-taught web developer from Turkey.</p>
-<p align="center"> 🌱 I'm currently learning JavaScript and Php.</p>
+<p align="center"> 🌱 I'm currently learning React and Node.js.</p>
 
 <h2 align="center">Languages and Tools</h2>
 
