@@ -20,16 +20,17 @@
   </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40 /> 
-</a>
+</a>    
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+  <img src="https://vuejs.org/images/logo.png" alt="vuejs" width="40" height="40" />
+</a>                                                                                                                                           
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" alt="nodejs" width="60" height="30"/> 
 </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
   <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="40" height="40"/> 
 </a>  
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-  <img src="https://vuejs.org/images/logo.png" alt="vuejs" width="40" height="40" />
-</a>
+
 </p>
   
   <h3 align="center">How to reach me:</h3>
