@@ -27,6 +27,9 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
   <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="40" height="40"/> 
 </a>  
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+  <img src="https://vuejs.org/images/logo.png" alt="vuejs" width="40" height="40" />
+</a>
 </p>
   
   <h3 align="center">How to reach me:</h3>
