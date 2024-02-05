@@ -27,6 +27,12 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" alt="nodejs" width="60" height="30"/> 
 </a>
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer">
+  <img src="https://nextjs.org/static/blog/next-13-4/twitter-card.png" alt="postgresql" width="40" height="40"/> 
+</a>  
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="postgresql" width="40" height="40"/> 
+</a>  
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
   <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="40" height="40"/> 
 </a>  
